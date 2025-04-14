@@ -3,8 +3,10 @@
 ეს პროექტი მიზნად ისახავს ვებ სერვერის ლოგების ანალიზს, რათა გამოვლინდეს შესაძლო DDoS შეტევა. სკრიპტი იყენებს Python-ს, Pandas-სა და Matplotlib-ს მონაცემების გასაანალიზებლად და ვიზუალიზაციისთვის.
 
 ## 📂 ფაილის აღწერა
-- **`daviti_datunashvili_1_server.log`** - ვებ სერვერის მოვლენათა ფაილი.
+- **[daviti_datunashvili_1_server.log](https://raw.githubusercontent.com/datunashvili/analyze_ddos/refs/heads/master/daviti_datunashvili_1_server.log)** - ვებ სერვერის მოვლენათა ფაილი.
 - **`analyze_ddos.py`** - ძირითადი სკრიპტი, რომელიც ახორციელებს ლოგების დამუშავებას.
+
+
 
 ## 📌 კოდის მნიშვნელოვანი ნაწილები
 
